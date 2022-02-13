@@ -36,24 +36,22 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(00000.1)
 ##### LOGO #####
-logo = 
-
-
+logo =
 (" \033[1;92m██╗░░██╗░█████╗░░█████╗░██╗░░██╗███████╗██████╗░
 (" \033[1;92m██║░░██║██╔══██╗██╔══██╗██║░██╔╝██╔════╝██╔══██╗
 (" \033[1;92m███████║███████║██║░░╚═╝█████═╝░█████╗░░██████╔╝
 (" \033[1;92m██╔══██║██╔══██║██║░░██╗██╔═██╗░██╔══╝░░██╔══██╗
 (" \033[1;92m██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗██║░░██║
 (" \033[1;92m╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
-   Asif Javed
+   IFAD-VAU
    ▄︻̷̿┻̿═━一
-   THE ANONYMOUS lovehacker TRICKER 
-   THE LEGEND ℒℴνℯ
-   THE GAME CHANGER ℒℴνℯ
+   THE BLACK SQUARD™
+   THE LEGEND KILLER
+   THE GAME CHANGER KILLER
    pakistani hackers
-   ℒℴνℯ ▄︻̷̿┻̿═━一
+   Killer ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mTechnical BD
+\033[1;96mAuthor  \033[1;93m: \033[1;92mIfad-Vau
 \033[1;96mYouTube \033[1;93m: \033[1;92mTechnical BD
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/lovehacker
@@ -74,8 +72,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mlove
-\033[1;96mYouTube \033[1;93m: \033[1;92mlovehacker
+\033[1;96mAuthor  \033[1;93m: \033[1;92mIfad-Vau
+\033[1;96mYouTube \033[1;93m: \033[1;92mTechnical BD
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/hackeboss/hackeboss
 \033[1;96mpage \033[1;93m: \033[1;92https://m.facebook.com/The-Black-Squard-100653095854354/
 \033[1;91m======================================="""
